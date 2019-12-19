@@ -1,0 +1,17 @@
+Doing Dishes
+
+1 Prepare dishes
+  1.1 Separate dishes
+    1.1.1 Hand wash some dishes
+    1.1.2 Load dishwasher
+2 Wash dishes
+  2.1 Open dishwasher
+    2.1.1 Load dishes
+    2.1.2 Add dishwasher soap
+  2.2 Choose wash cycle
+  2.3 Press start
+  2.4 Close dishwasher
+3 Put dishes away
+  3.1 Organize dishes
+  3.2 Put dishes in cabinets
+  3.3 Put silverware away
